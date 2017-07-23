@@ -1,7 +1,5 @@
 'use strict'
 
-class ParkingLot {
-
-}
+class ParkingLot {}
 
 module.exports = ParkingLot
