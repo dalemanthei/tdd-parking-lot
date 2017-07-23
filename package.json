@@ -1,0 +1,22 @@
+{
+  "name": "parking-lot",
+  "version": "1.0.0",
+  "description": "Parking lot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec 'clear && standard --fix && standard && jasmine'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "nodemon": "^1.11.0",
+    "standard": "^10.0.2"
+  },
+  "standard": {
+    "globals": [
+      "jasmine"
+    ]
+  }
+}
