@@ -18,5 +18,8 @@
     "globals": [
       "jasmine"
     ]
+  },
+  "dependencies": {
+    "husky": "^0.14.3"
   }
 }
